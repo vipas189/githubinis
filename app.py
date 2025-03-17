@@ -4,4 +4,8 @@ print("kaciokas")
 print("destioras")
 =======
 print("login")
+<<<<<<< HEAD
+>>>>>>> origin/main
+=======
+print("studentioro prisijungimas")
 >>>>>>> origin/main
